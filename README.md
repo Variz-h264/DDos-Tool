@@ -5,7 +5,7 @@
 
 Then:
 
-    git clone https://github.com/QuangHuwngg/DDos-Golang.git
+    git clone https://github.com/Variz-h264/DDos-Tool.git
 
 Header.txt format:
 
